@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analytics — dbt & Snowflake
+# 🎬 Amazon Prime Video Data Pipeline — dbt & Snowflake
 
 An end-to-end **data transformation and analytics project** using **Snowflake, dbt, and SQL** to transform Netflix data into clean, tested, and analytics-ready datasets.
 
